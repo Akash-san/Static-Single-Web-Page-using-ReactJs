@@ -20,7 +20,7 @@ The web page consists of several components and containers. The containers provi
 To use or modify this project, follow these steps:
 
 1. Clone the repository: 
-git clone <repository_url> 
+git clone -- https://github.com/Akash-san/Static-Single-Web-Page-using-ReactJs.git
 
 2.Navigate to the project director
 cd static-single-webpage-react
