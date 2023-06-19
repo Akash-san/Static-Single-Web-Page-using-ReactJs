@@ -13,7 +13,10 @@ The web page consists of several components and containers. The containers provi
 - [Customization](#customization)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
-- [License](#license)
+
+##Sample
+
+![Screenshot (417)](https://github.com/Akash-san/Static-Single-Web-Page-using-ReactJs/assets/98251561/e3f24920-176a-4473-a59a-b2b23ede2100)
 
 ## Installation
 
